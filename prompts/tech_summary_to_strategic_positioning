@@ -1,0 +1,11 @@
+Given the following technical summary of a patent, generate a strategic positioning statement.
+
+The positioning should include:
+1. The target application area or industry (e.g., mobile XR, industrial IoT, smart factory)
+2. The core differentiating feature of the technology (e.g., real-time alignment, predictive AI, interoperability)
+3. The business or operational impact (e.g., reduced downtime, improved immersion, energy efficiency)
+
+Technical Summary:
+"{tech_summary}"
+
+Return a concise strategic positioning statement in one sentence.
